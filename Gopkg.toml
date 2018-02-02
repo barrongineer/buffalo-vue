@@ -24,3 +24,7 @@
 [[constraint]]
   branch = "master"
   name = "github.com/spf13/cobra"
+
+[[constraint]]
+  name = "github.com/gobuffalo/buffalo"
+  version = "0.10.3"
